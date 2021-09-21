@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@volkanb/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the [Lodash](https://lodash.com) library.",
   "main": "assertEqual.js",
   "directories": {
     "test": "test"
@@ -20,7 +20,10 @@
     "url": "git+https://github.com/volkanb/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Volkan Benli",
+    "email": "volkanbenli92@gmail.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/volkanb/lotide/issues"
