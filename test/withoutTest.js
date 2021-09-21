@@ -1,6 +1,3 @@
-// assertArraysEqual([1, 2], without([1, 2, 3], [3])); // should pass
-// assertArraysEqual([15, 25], without([15, 25, 35], [3])); // should fail
-
 const assert = require('chai').assert;
 const without = require('../without');
 
